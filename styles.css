@@ -1,0 +1,21 @@
+.tieude {background-color: #563d7c;text-align: center;font-family: 'Merriweather Sans', sans-serif;font-size: 2rem;padding: 1rem 3rem 1rem 3rem;}
+.center {text-align: center;}
+.padding1 {padding: 3rem auto 3rem auto}
+.left {text-align: left;}
+hover:hover {background-color: black;}
+.background {background-color: #563d7c;}
+.table {margin-top: 6rem}
+h3 {font-family: 'Merriweather Sans', sans-serif;color: black}
+.carousel-control-prev-icon {color: black;}
+
+.carousel-control-prev-icon {
+     color: black;
+     width: 32px;
+     height: 32px;
+}
+ .carousel-control-next-icon {
+     background-image: url(../images/next-32.png);
+     width: 32px;
+     height: 32px;
+}
+.thoikhoabieu {margin-bottom: 5rem;}
